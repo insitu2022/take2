@@ -1,0 +1,1 @@
+\`\`\` and converts it into markdown. ### Save the markdown content !\[Confluence to Markdown Converter\](https://metamug.com/assets/img/confluence-to-markdown-converter.PNG)
